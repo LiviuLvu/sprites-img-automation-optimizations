@@ -1,0 +1,74 @@
+.img01,
+.img02,
+.img03,
+.img04,
+.img05,
+.img06,
+.img07,
+.img08,
+.img09,
+.img10 {
+   background-image: url(../img/sprites.png);
+   background-repeat: no-repeat;
+   display: inline-block;
+}
+
+.img01 {
+   width: 400px;
+   height: 400px;
+   background-position: -0px -0px
+}
+
+.img02 {
+   width: 200px;
+   height: 200px;
+   background-position: -0px -402px
+}
+
+.img03 {
+   width: 200px;
+   height: 200px;
+   background-position: -202px -402px
+}
+
+.img04 {
+   width: 200px;
+   height: 200px;
+   background-position: -0px -604px
+}
+
+.img05 {
+   width: 200px;
+   height: 200px;
+   background-position: -202px -604px
+}
+
+.img06 {
+   width: 200px;
+   height: 200px;
+   background-position: -0px -806px
+}
+
+.img07 {
+   width: 200px;
+   height: 200px;
+   background-position: -202px -806px
+}
+
+.img08 {
+   width: 32px;
+   height: 32px;
+   background-position: -404px -806px
+}
+
+.img09 {
+   width: 32px;
+   height: 32px;
+   background-position: -438px -806px
+}
+
+.img10 {
+   width: 32px;
+   height: 32px;
+   background-position: -472px -806px
+}
